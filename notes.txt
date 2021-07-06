@@ -4,4 +4,4 @@ LINKS
 3.Link to project: https://codepen.io/sherman-bernard/pen/YzVwamy
 
 NOTES: DESCENDING ORDER 
-060721: Finished steps 1-2. UP TO STEP 3.
+060721: Finished steps 1-4. UP TO STEP 5.
