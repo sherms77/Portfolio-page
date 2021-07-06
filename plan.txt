@@ -4,22 +4,7 @@ Create GitHub repo
 Commit repo to GitHub
 Add project plan to GitHub
 Find topic
-Draft questions
 Structure page layout
-Get background image
 Meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
-Map elements
-Map CSS classes
-Align questions correctly
-Put questions above entry fields
-Change font
-Space out questions
-Put border around questions
-Format radio buttons
-Format select element
-Format check boxes
-Format textarea element 
-Format submit button 
-Add background image
-Better background colors and border
+Style page
 Submit project

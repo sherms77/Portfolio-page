@@ -1,19 +1,19 @@
 # Details
-- Project 2 from the Responsive web design course on freeCodeCamp.org.
+- Project 3 from the Responsive web design course on freeCodeCamp.org.
 - Unit: Responsive web design projects.
-- Project name: Build a survey form.
+- Project name: Build a product landing page.
 
 # About
-- Build a survey form. 
+- Build a product landing page.
 - Meet the requirements for each user story in the project specs.
-- Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+- Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page.
 
 # Links
-Link to project: https://codepen.io/sherman-bernard/full/poeqmGp
+Link to project: https://codepen.io/sherman-bernard/full/YzVwamy
 
 # Notes
-HTML and CSS files in folder named 'page.'
+HTML and CSS files in 'page' folder.
 
 # Timeline
-- Started: 16 June 2021
-- Finished: 5 July 2021
+- Started: 6 July 2021
+- Finished: TBC
