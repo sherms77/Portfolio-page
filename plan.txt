@@ -1,5 +1,5 @@
-Scope - user stories
 Create local repo
+Scope - user stories
 Create GitHub repo
 Commit repo to GitHub
 Add project plan to GitHub
