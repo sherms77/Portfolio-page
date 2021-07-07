@@ -1,1 +1,2 @@
-DJ Vekked 2015: https://www.youtube.com/watch?v=NnRVmiqm84k&list=PLnFXNibrcbamw96ttmwnXAJe4KXVJTrJp&index=36
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2o2KzYyF7XlvacittDtvyktZXed0BMDSaWg&usqp=CAU
+DJ Vekked 2015: https://www.youtube.com/watch?v=NnRVmiqm84k - needs to be: https://www.youtube.com/embed/NnRVmiqm84k

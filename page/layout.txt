@@ -1,0 +1,21 @@
+Top left: Name and logo
+Top Center (slightly below name):
+    - tag line
+    - email box
+    - get started button
+Top right: 
+    - features
+    - demo
+    - pricing
+
+Center middle:
+    - feature box 1
+    - feature box 2
+    - feature box 3
+
+Bottom left:
+    - pricing box 1
+Bottom center:
+    - pricing box 2
+Bottom right:
+    - pricing box 3

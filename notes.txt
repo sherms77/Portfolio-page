@@ -4,5 +4,9 @@ LINKS
 3.Link to project: https://codepen.io/sherman-bernard/pen/YzVwamy
 
 NOTES: DESCENDING ORDER 
+070721: Added new step to plan - Step 9: Populate sections.
+070721: Finsihed user stories 5-11. UP TO USER STORY 12.
+070721: Finished user stories 1-4. UP TO USER STORY 5.
+060721: Finished step 7. UP TO STEP 8.
 060721: Finished steps 5-6. UP TO STEP 7.
 060721: Finished steps 1-4. UP TO STEP 5.

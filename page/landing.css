@@ -1,0 +1,19 @@
+img{
+  position: relative; /*relative overlaps it with the surrounding element*/
+  bottom: 30px;
+  /*margin and padding bottom and right don't move image*/
+}
+.nav-link{}
+#submit{
+  color: white;
+  background-color: darkslategray;
+}
+.features{
+  margin-top: 100px;
+}
+.demo{
+  margin-top: 100px;
+}
+.pricing{
+  margin-top: 100px;
+}
