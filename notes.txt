@@ -2,8 +2,14 @@ LINKS
 1.Landing page project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
 2.Example: https://codepen.io/freeCodeCamp/full/RKRbwL
 3.Link to project: https://codepen.io/sherman-bernard/pen/YzVwamy
+4.Aligning divs side by side: https://www.youtube.com/watch?v=dNYCrO8w4kg
 
 NOTES: DESCENDING ORDER 
+080721: Worked on step 13. Experimenting with positioning logo next to company name. Refer to tests folder.
+080721: Finished steps 10-12. UP TO STEP 13.
+080721: UP TO STEP 10.
+080721: Deleted step 9 - Style page. Replaced with style steps: new steps 10-24. Added new steps to GitHub plan.
+080721: Working on step 9: Listed out style steps and modified layout.
 080721: Finished step 9. UP TO STEP 10 - NEED TO LIST OUT HOW I WANT TO STYLE PAGE.
 080721: Finished user stories 12-15. UP TO STEP 9 in plan.
 070721: Added new step to plan - Step 9: Populate sections.

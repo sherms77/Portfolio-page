@@ -1,0 +1,31 @@
+html {
+    font-family: helvetica;
+
+}
+
+img {
+    height: 120px;
+}
+
+h1 {
+    float: right;
+    margin-right: 190px;
+}
+
+#div-1 {
+    background-color: aqua;
+    width: 33.33%;
+    float: right;
+}
+
+#div-2 {
+    background-color: green;
+    width: 33.33%;
+    float: left;
+}
+
+#div-3 {
+    background-color: yellow;
+    width: 33.33%;
+    margin: 0 auto;
+}

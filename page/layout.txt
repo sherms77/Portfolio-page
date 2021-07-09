@@ -1,17 +1,16 @@
-Top left: Name and logo
 Top Center (slightly below name):
-    - tag line
-    - email box
-    - get started button
-Top right: 
-    - features
-    - demo
-    - pricing
-
-Center middle:
-    - feature box 1
-    - feature box 2
-    - feature box 3
+    - logo and name
+    - nav bar: features | demo | pricing
+    - tag line: enter your email to receive our newsletter
+    - email box and submit button (next to email box)
+    
+Center middle (features):
+    - shipping
+    - quality products
+    - expert advice
+*horizontal layout: logo | heading
+*vertical layout: text under heading
+*text-align: left under heading
 
 Bottom left:
     - pricing box 1
