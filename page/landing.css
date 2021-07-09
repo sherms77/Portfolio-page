@@ -3,17 +3,44 @@ img{
   bottom: 30px;
   /*margin and padding bottom and right don't move image*/
 }
-.nav-link{}
+ul{
+  list-style: none;
+}
+#nav-bar{
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin-right: 15px;
+}
+.nav-link{
+  float: left;
+}
 #submit{
   color: white;
   background-color: darkslategray;
 }
 .features{
   margin-top: 100px;
+  display: flex; /*user story #15 - css flexbox*/
+}
+#feature-elements{
+  display: grid;
 }
 .demo{
   margin-top: 100px;
 }
 .pricing{
-  margin-top: 100px;
+  display: grid;
+  margin-top: 10px;
+  list-style: disc;
+}
+@media (max-width: 600px) {
+  header{
+    text-align: center;
+    flex-wrap: flex;
+  }
+  body{
+    text-align: center;
+    flex-wrap: flex;
+  }
 }
