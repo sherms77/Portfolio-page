@@ -7,6 +7,10 @@ LINKS
 6.Align child elements using CSS Flexbox: https://www.youtube.com/watch?v=vtU0mpeQUOc
 
 NOTES: DESCENDING ORDER 
+120721: Finsished steps 22-24. Unpaused step 15. UP TO STEP 15. Might delete step 14.
+120721: Finished steps 18-22. UP TO STEP 22.
+120721: Finished step 17. Pausing steps 14 and 15. WORKING ON STEPS 18 AND 20.
+110721: Finished steps 16 and 19.
 110721: Finished step 13. UP TO STEP 14. Might modify or delete steps 14-15 to make progress. May take me too long to get this to work correctly. 
 110721: Tried putting company name and logo in fixed position but it threw everything off. Won't worry about fixing their positions, don't have enough time to do.
 110721: Step 13 - Put logo next to heading (company name). Need to add to codepen.

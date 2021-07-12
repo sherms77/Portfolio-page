@@ -52,25 +52,99 @@ ul {
   background-color: darkslategray;
 }
 
-#feature-elements {
-  /*need to align text left under headings*/
-  /*might need to give headings and descriptions ids*/
+#features {
+  /*parent - flex container for feature elements*/
   display: flex;
-  justify-content: center;
   flex-direction: column;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+.icons {
+  height: 50px;
+  padding-right: 2%;
+}
+
+#box1-features {
+  display: flex;
   align-items: center;
-  margin-top: 50px;
-  
+}
+
+#box2-features {
+  display: flex;
+  align-items: center;
+}
+
+#box3-features {
+  display: flex;
+  align-items: center;
+}
+
+#desc {
+  display: flex;
+  margin-left: 70px;
+  margin-top: 0;
 }
 
 .demo{
-  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
 }
 
-.pricing{
-  display: grid;
-  margin-top: 10px;
+.pricing {
+  /*pricing - parent container*/
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
   list-style: disc;
+}
+
+#header-price {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  margin-top: 15px;
+  /*margin-bottom: 15px;*/
+  padding-bottom: 5%;
+  color: white;
+}
+
+#list-price {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  font-size: 15px;
+  color: white;
+}
+
+#box1-pricing {
+  background-color: darkslategray;
+  border-color: darkslategray;
+  border-style: solid;
+  border-radius: 25px;
+  padding-bottom: 5%;
+  padding-right: 3%;
+  margin-right: 10px;
+}
+
+#box2-pricing {
+  background-color: darkslategray;
+  border-color: darkslategray;
+  border-style: solid;
+  border-radius: 25px;
+  padding-right: 3%;
+  margin-right: 10px;
+}
+
+#box3-pricing {
+  background-color: darkslategray;
+  border-color: darkslategray;
+  border-style: solid;
+  border-radius: 25px;
+  padding-right: 3%;
+  margin-right: 10px;
 }
 
 @media (max-width: 600px) {
