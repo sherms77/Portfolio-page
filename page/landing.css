@@ -1,44 +1,85 @@
-img{
-  position: relative; /*relative overlaps it with the surrounding element*/
-  bottom: 30px;
-  /*margin and padding bottom and right don't move image*/
+html {
+  font-family: helvetica;
 }
-ul{
-  list-style: none;
+
+header {
+  /*parent - flex container for header elements*/
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
 }
-#nav-bar{
-  position: fixed;
+
+#header-img {
+  /*child 1 - header container*/
+  display: flex;
+  height: 80px;
+  margin-top: 19px;
+}
+
+#company-name {
+  /*child 2 - header container*/
+  display: flex;
+  padding: 0;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  align-items: center;
+}
+
+#nav-bar {
+  /*user story #13 - navbar always needs to be at the top*/
+  position: fixed; /*needs to be fixed for #13*/
+  display: flex;
   top: 0;
   right: 0;
   margin-right: 15px;
 }
+
+ul {
+  list-style: none;
+}
+
 .nav-link{
   float: left;
 }
+
+#form {
+  text-align: center;
+  margin-top: 50px;
+}
+
 #submit{
   color: white;
   background-color: darkslategray;
 }
-.features{
-  margin-top: 100px;
-  display: flex; /*user story #15 - css flexbox*/
+
+#feature-elements {
+  /*need to align text left under headings*/
+  /*might need to give headings and descriptions ids*/
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  
 }
-#feature-elements{
-  display: grid;
-}
+
 .demo{
   margin-top: 100px;
 }
+
 .pricing{
   display: grid;
   margin-top: 10px;
   list-style: disc;
 }
+
 @media (max-width: 600px) {
+  
   header{
     text-align: center;
     flex-wrap: flex;
   }
+  
   body{
     text-align: center;
     flex-wrap: flex;

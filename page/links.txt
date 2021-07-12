@@ -1,2 +1,4 @@
-logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2o2KzYyF7XlvacittDtvyktZXed0BMDSaWg&usqp=CAU
+logo1: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2o2KzYyF7XlvacittDtvyktZXed0BMDSaWg&usqp=CAU
+logo2: https://www.pngkey.com/png/detail/262-2620481_vinyl-record-player-free-vector-icons-designed-by.png
+logo3: https://www.pikpng.com/pngl/m/65-653036_turntable-png-turntable-logo-png-clipart.png
 DJ Vekked 2015: https://www.youtube.com/watch?v=NnRVmiqm84k - needs to be: https://www.youtube.com/embed/NnRVmiqm84k
