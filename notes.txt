@@ -6,7 +6,11 @@ LINKS
 5.Aligning divs side by side: https://www.youtube.com/watch?v=dNYCrO8w4kg
 6.Align child elements using CSS Flexbox: https://www.youtube.com/watch?v=vtU0mpeQUOc
 
-NOTES: DESCENDING ORDER 
+NOTES: DESCENDING ORDER
+140721: Shipping icon broken on mobile. Replaced with shipping icon2 from links. Now works on mobile. 
+130721: Finished step 24 - Submitted project. Passed.
+130721: Finished new step 14 - Align nav-bar elements horizontally.
+130721: Deleted step 14 - Put nav-bar under company name. It conflicts with user story #13.
 120721: Finsished steps 22-24. Unpaused step 15. UP TO STEP 15. Might delete step 14.
 120721: Finished steps 18-22. UP TO STEP 22.
 120721: Finished step 17. Pausing steps 14 and 15. WORKING ON STEPS 18 AND 20.

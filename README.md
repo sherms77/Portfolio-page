@@ -12,8 +12,9 @@
 Link to project: https://codepen.io/sherman-bernard/full/YzVwamy
 
 # Notes
-HTML and CSS files in 'page' folder.
+- HTML and CSS files in 'page' folder.
+- Boilerplate code not used. codepen auto adds it.
 
 # Timeline
 - Started: 6 July 2021
-- Finished: TBC
+- Finished: 13 July 2021

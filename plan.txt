@@ -11,7 +11,6 @@ Choose font
 Change font - apply to entire page
 Shrink logo
 Put logo on left of company name
-Put nav-bar under company name
 Align nav-bar elements horizontally
 Center header elements
 Find logos for features

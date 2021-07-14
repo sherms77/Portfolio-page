@@ -3,21 +3,18 @@ html {
 }
 
 header {
-  /*parent - flex container for header elements*/
   display: flex;
   justify-content: center;
   flex-direction: row-reverse;
 }
 
 #header-img {
-  /*child 1 - header container*/
   display: flex;
   height: 80px;
   margin-top: 19px;
 }
 
 #company-name {
-  /*child 2 - header container*/
   display: flex;
   padding: 0;
   margin-bottom: 5px;
@@ -26,11 +23,24 @@ header {
 }
 
 #nav-bar {
-  /*user story #13 - navbar always needs to be at the top*/
-  position: fixed; /*needs to be fixed for #13*/
-  display: flex;
+  position: fixed; /*user story #13*/
   top: 0;
   right: 0;
+  margin-right: 15px;
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+}
+
+#nav-items {
+  display: flex;
+}
+
+#nav-item1 {
+  margin-right: 15px;
+}
+
+#nav-item2 {
   margin-right: 15px;
 }
 
@@ -38,7 +48,7 @@ ul {
   list-style: none;
 }
 
-.nav-link{
+.nav-link {
   float: left;
 }
 
@@ -47,13 +57,12 @@ ul {
   margin-top: 50px;
 }
 
-#submit{
+#submit {
   color: white;
   background-color: darkslategray;
 }
 
 #features {
-  /*parent - flex container for feature elements*/
   display: flex;
   flex-direction: column;
   margin-left: 200px;
@@ -86,7 +95,7 @@ ul {
   margin-top: 0;
 }
 
-.demo{
+.demo {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -94,11 +103,10 @@ ul {
 }
 
 .pricing {
-  /*pricing - parent container*/
   display: flex;
   justify-content: center;
-  margin-top: 30px;
   list-style: disc;
+  margin-top: 30px;
 }
 
 #header-price {
@@ -106,7 +114,6 @@ ul {
   justify-content: center;
   font-size: 20px;
   margin-top: 15px;
-  /*margin-bottom: 15px;*/
   padding-bottom: 5%;
   color: white;
 }
@@ -123,7 +130,6 @@ ul {
   background-color: darkslategray;
   border-color: darkslategray;
   border-style: solid;
-  border-radius: 25px;
   padding-bottom: 5%;
   padding-right: 3%;
   margin-right: 10px;
@@ -133,7 +139,6 @@ ul {
   background-color: darkslategray;
   border-color: darkslategray;
   border-style: solid;
-  border-radius: 25px;
   padding-right: 3%;
   margin-right: 10px;
 }
@@ -142,7 +147,6 @@ ul {
   background-color: darkslategray;
   border-color: darkslategray;
   border-style: solid;
-  border-radius: 25px;
   padding-right: 3%;
   margin-right: 10px;
 }
