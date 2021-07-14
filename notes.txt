@@ -1,36 +1,7 @@
 LINKS
-1.Landing page project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
-2.Example: https://codepen.io/freeCodeCamp/full/RKRbwL
-3.Link to project: https://codepen.io/sherman-bernard/pen/YzVwamy
-4.GitHub project plan: https://github.com/users/sherms77/projects/3 
-5.Aligning divs side by side: https://www.youtube.com/watch?v=dNYCrO8w4kg
-6.Align child elements using CSS Flexbox: https://www.youtube.com/watch?v=vtU0mpeQUOc
+1.Technical page project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
+2.Example: https://codepen.io/freeCodeCamp/full/NdrKKL
+3.Link to project: NEED TO ADD 
+4.GitHub project plan: NEED TO ADD 
 
 NOTES: DESCENDING ORDER
-140721: Shipping icon broken on mobile. Replaced with shipping icon2 from links. Now works on mobile. 
-130721: Finished step 24 - Submitted project. Passed.
-130721: Finished new step 14 - Align nav-bar elements horizontally.
-130721: Deleted step 14 - Put nav-bar under company name. It conflicts with user story #13.
-120721: Finsished steps 22-24. Unpaused step 15. UP TO STEP 15. Might delete step 14.
-120721: Finished steps 18-22. UP TO STEP 22.
-120721: Finished step 17. Pausing steps 14 and 15. WORKING ON STEPS 18 AND 20.
-110721: Finished steps 16 and 19.
-110721: Finished step 13. UP TO STEP 14. Might modify or delete steps 14-15 to make progress. May take me too long to get this to work correctly. 
-110721: Tried putting company name and logo in fixed position but it threw everything off. Won't worry about fixing their positions, don't have enough time to do.
-110721: Step 13 - Put logo next to heading (company name). Need to add to codepen.
-100721: Cannot reduce white space around image to put it closer to the heading text? Experiment with another image.
-100721: Worked on step 13 - refer to CSS Flexbox unit in course for info on aligning elements.
-100721: Worked on step 13.
-080721: Worked on step 13. Experimenting with positioning logo next to company name. Refer to tests folder.
-080721: Finished steps 10-12. UP TO STEP 13.
-080721: UP TO STEP 10.
-080721: Deleted step 9 - Style page. Replaced with style steps: new steps 10-24. Added new steps to GitHub plan.
-080721: Working on step 9: Listed out style steps and modified layout.
-080721: Finished step 9. UP TO STEP 10 - NEED TO LIST OUT HOW I WANT TO STYLE PAGE.
-080721: Finished user stories 12-15. UP TO STEP 9 in plan.
-070721: Added new step to plan - Step 9: Populate sections.
-070721: Finsihed user stories 5-11. UP TO USER STORY 12.
-070721: Finished user stories 1-4. UP TO USER STORY 5.
-060721: Finished step 7. UP TO STEP 8.
-060721: Finished steps 5-6. UP TO STEP 7.
-060721: Finished steps 1-4. UP TO STEP 5.

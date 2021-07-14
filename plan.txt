@@ -5,20 +5,8 @@ Commit repo to GitHub
 Add project plan to GitHub
 Find topic
 Structure page layout
+Draft content
 Meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
 Populate sections
-Choose font
-Change font - apply to entire page
-Shrink logo
-Put logo on left of company name
-Align nav-bar elements horizontally
-Center header elements
-Find logos for features
-Add logos to left of features
-Center features
-Align features text left
-Put rounded borders around pricing elements
-Align text in pricing elements to the center
-Align pricing boxes horizonally
-Add a faint background color to pricing boxes
+Style page - create steps as required
 Submit project
