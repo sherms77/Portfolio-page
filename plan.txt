@@ -8,5 +8,5 @@ Structure page layout
 Draft content
 Meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
 Populate sections
-Style page - create steps as required
+Style page
 Submit project

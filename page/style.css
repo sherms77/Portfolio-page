@@ -1,0 +1,22 @@
+html {
+    font-family: arial;
+    color: gray; 
+  }
+  
+  #navbar {}
+  
+  #navbar li {
+    list-style: none;
+    border-top: 1px solid;
+  }
+  
+  #navbar a {
+    display: block;
+    padding: 10px;
+  }
+  
+  .nav-link {}
+  
+  #main-doc {}
+  
+  .main-section {}
