@@ -1,8 +1,0 @@
-logo1: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2o2KzYyF7XlvacittDtvyktZXed0BMDSaWg&usqp=CAU
-logo2: https://www.pngkey.com/png/detail/262-2620481_vinyl-record-player-free-vector-icons-designed-by.png
-logo3: https://www.pikpng.com/pngl/m/65-653036_turntable-png-turntable-logo-png-clipart.png
-DJ Vekked 2015: https://www.youtube.com/watch?v=NnRVmiqm84k - needs to be: https://www.youtube.com/embed/NnRVmiqm84k
-Shipping icon1 - plane: https://img-premium.flaticon.com/png/512/2501/premium/2501014.png?token=exp=1626061108~hmac=0884e4116a45241ad8620af4bbb7acc3
-Shipping icon2 - plane: https://simg.nicepng.com/png/small/188-1882895_bvt-icons-for-moving-tips-paper-plane-icon.png
-Quality icon - cup: https://image.flaticon.com/icons/png/512/1021/1021220.png
-Advice icon - clipboard: https://image.flaticon.com/icons/png/512/2666/2666505.png

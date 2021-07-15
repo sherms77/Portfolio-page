@@ -1,7 +1,8 @@
 LINKS
 1.Technical page project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 2.Example: https://codepen.io/freeCodeCamp/full/NdrKKL
-3.Link to project: NEED TO ADD 
-4.GitHub project plan: NEED TO ADD 
+3.Link to project: https://codepen.io/sherman-bernard/pen/PomWOLy
+4.GitHub project plan: https://github.com/users/sherms77/projects/4
 
 NOTES: DESCENDING ORDER
+140721: Finished steps 1-6 in plan. UP TO STEP 7.

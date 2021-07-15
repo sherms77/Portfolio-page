@@ -4,12 +4,12 @@
 - Project name: Build a technical documentation page.
 
 # About
-- Build a product landing page.
+- Build a technical documentation page.
 - Meet the requirements for each user story in the project specs.
 - Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 
 # Links
-Link to project: NEED TO ADD
+Link to project: https://codepen.io/sherman-bernard/full/PomWOLy
 
 # Notes
 - HTML and CSS files in 'page' folder.
