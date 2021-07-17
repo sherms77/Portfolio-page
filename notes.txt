@@ -5,6 +5,7 @@ LINKS
 4.GitHub project plan: https://github.com/users/sherms77/projects/4
 
 NOTES: DESCENDING ORDER
+150721: Finished user story 14. UP TO USER STORY 15.
 150721: Finished user stories 8-13. UP TO USER STORY 14.
 150721: Finished user story 6.
 150721: Finished user stories 1-5 and 7 and 10.

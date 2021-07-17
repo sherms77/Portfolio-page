@@ -1,22 +1,53 @@
 html {
-    font-family: arial;
-    color: gray; 
-  }
+  font-family: arial;
+  color: gray; 
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 300px 800px; 
+  grid-column-gap: 5px;
+  grid-template-areas: "navMenu mainBody"
+}
+
+#navHeading {
+  padding-left: 45px;
+}
+
+#navbar {
+  grid-area: navMenu;
+  position: fixed;
+}
+
+#navbar li {
+  list-style: none;
+  border-top: 1px solid;
   
-  #navbar {}
-  
-  #navbar li {
-    list-style: none;
-    border-top: 1px solid;
-  }
-  
-  #navbar a {
-    display: block;
-    padding: 10px;
-  }
-  
-  .nav-link {}
-  
-  #main-doc {}
-  
-  .main-section {}
+}
+
+#navbar a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: gray;
+}
+
+#main-doc {
+  grid-area: mainBody;
+}
+
+.main-section li {line-height: 30px;}
+
+.main-section p {line-height: 25px}
+
+header {
+  font-size: 25px;
+  color: black;
+}
+
+code {
+  color: black;
+  display: block;
+  background-color: lightgreen;
+  padding: 10px;
+}
