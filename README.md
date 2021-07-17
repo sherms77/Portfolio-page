@@ -17,4 +17,4 @@ Link to project: https://codepen.io/sherman-bernard/full/PomWOLy
 
 # Timeline
 - Started: 14 July 2021
-- Finished: TBC
+- Finished: 17 July 2021
