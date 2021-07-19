@@ -1,7 +1,0 @@
-Side (left) menu:
-    - Main heading
-    - Sections
-
-Body:
-    - Section Heading
-    - Content 

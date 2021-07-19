@@ -1,14 +1,8 @@
 LINKS
-1.Technical page project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
-2.Example: https://codepen.io/freeCodeCamp/full/NdrKKL
-3.Link to project: https://codepen.io/sherman-bernard/pen/PomWOLy
-4.GitHub project plan: https://github.com/users/sherms77/projects/4
+1.Personal portfolio webpage project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage
+2.Example: https://codepen.io/freeCodeCamp/full/zNBOYG
+3.Link to project: https://codepen.io/sherman-bernard/pen/dyWRvLJ
+4.GitHub project plan: ADD
 
 NOTES: DESCENDING ORDER
-150721: Finished user story 15 and steps 9-12. Submitted project - passed.
-150721: Finished user story 14. UP TO USER STORY 15.
-150721: Finished user stories 8-13. UP TO USER STORY 14.
-150721: Finished user story 6.
-150721: Finished user stories 1-5 and 7 and 10.
-150721: Finished steps 7-8. UP TO STEP 9: USER STORIES.
-140721: Finished steps 1-6 in plan. UP TO STEP 7.
+190721: Finished steps 1-2.

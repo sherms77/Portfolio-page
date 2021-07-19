@@ -3,9 +3,8 @@ Scope - user stories
 Create GitHub repo
 Commit repo to GitHub
 Add project plan to GitHub
-Find topic
 Structure page layout
-Draft content
+Collate links
 Meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
 Populate sections
 Style page
