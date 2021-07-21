@@ -5,4 +5,5 @@ LINKS
 4.GitHub project plan: ADD
 
 NOTES: DESCENDING ORDER
+200721: Finished steps 6-8 in plan. UP TO STEP 9.
 190721: Finished steps 1-5 in plan. UP TO STEP 6.

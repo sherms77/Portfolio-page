@@ -1,0 +1,64 @@
+html {font-family: arial;}
+
+.main-container {
+  display: grid
+}
+
+#navbar {
+  position: fixed;
+}
+
+#welcome-section {
+  height: 100vh;
+  background-color: lightgreen;
+}
+
+#projects {
+  height: 100vh;
+  background-color: yellow;
+}
+
+.project-tile li {list-style: none;}
+
+.project-tile a {
+  text-decoration: none;
+  color: black;
+}
+
+#project-1 {
+  border: solid;
+  border-style: none;
+  background-color: lightgray;
+  padding: 10px;
+}
+
+#project-2 {
+  border: solid;
+  border-style: none;
+  background-color: lightgray;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#project-3 {
+  border: solid;
+  border-style: none;
+  background-color: lightgray;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#project-4 {
+  border: solid;
+  border-style: none;
+  background-color: lightgray;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#contact {
+  height: 100vh;
+  background-color: salmon;
+}
+
+@media (max-width: 770px) {}

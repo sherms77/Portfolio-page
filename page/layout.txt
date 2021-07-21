@@ -1,0 +1,21 @@
+navbar:
+    - About
+    - Work
+    - Contact
+
+About section:
+    - name: Hey I'm Sherman
+    - subheading: a web developer
+
+Work section (projects):
+    - four projects: responsive web design projects.
+
+Contact section:
+    - GitHub
+    - Twitter
+    - Email
+    - Phone
+
+Footer:
+    - This is a fake portfolio page.
+    - Created for freeCodeCamp.
