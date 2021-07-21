@@ -1,0 +1,17 @@
+html {font-family: arial;}
+
+#project-header {text-align: center;}
+
+a {
+    background-color: gray;
+    border:solid;
+    border-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.project-tile {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+}

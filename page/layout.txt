@@ -18,4 +18,3 @@ Contact section:
 
 Footer:
     - This is a fake portfolio page.
-    - Created for freeCodeCamp.

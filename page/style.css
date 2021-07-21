@@ -1,21 +1,49 @@
-html {font-family: arial;}
-
-.main-container {
-  display: grid
+html {
+  font-family: arial;
+  color: white;
 }
 
 #navbar {
   position: fixed;
+  display: flex;
+  top: 0;
+  justify-content: flex-end;
+  width: 100%;
+  background-color: darkslategray;
 }
 
+#nav-items {
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#about-navItem {margin-right: 10px;}
+
+#projects-navItem {margin-right: 10px;}
+
 #welcome-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   height: 100vh;
-  background-color: lightgreen;
+  width: 100%;
+  background-color: steelblue;
 }
 
 #projects {
   height: 100vh;
-  background-color: yellow;
+  background-color: orangered;
 }
 
 .project-tile li {list-style: none;}
@@ -58,7 +86,23 @@ html {font-family: arial;}
 
 #contact {
   height: 100vh;
-  background-color: salmon;
+  width: 100%;
+  background-color: steelblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
+#contact-header {display: flex;}
+
+#contact-items {display: flex;}
+
+#GitHub-contactItem {margin-right: 60px;}
+
+#twitter-contactItem {margin-right: 60px;}
+
+#email-contactItem {margin-right: 60px;}
+
 
 @media (max-width: 770px) {}
