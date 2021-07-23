@@ -5,7 +5,11 @@ LINKS
 4.GitHub project plan: https://github.com/users/sherms77/projects/5
 
 NOTES: DESCENDING ORDER
-210721: Created test files to work out grid for project tiles.
+220721: Finished step 10. 
+    - Styled page as much as much as I could. 
+    - Looks presentable in mobile. 
+    - Tiles in project section overflow in desktop mode when browser is not max height.
+220721: Created test files to work out grid for project tiles.
 210721: Working on step 10.
 210721: Finished step 9. UP TO STEP 10.
 200721: Finished steps 6-8 in plan. UP TO STEP 9.

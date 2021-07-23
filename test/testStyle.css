@@ -14,4 +14,49 @@ a {
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    justify-content: center;
+}
+
+#tribute-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+}
+
+#survey-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+}
+
+#landing-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+}
+
+#doc-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+}
+
+@media (max-width: 770px) {
+    .project-tile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mobile {color: green;}
 }

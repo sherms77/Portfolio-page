@@ -3,12 +3,20 @@ html {
   color: white;
 }
 
+/*makes navbar sit flush with other elements*/
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/*navbar section*/
 #navbar {
   position: fixed;
   display: flex;
   top: 0;
   justify-content: flex-end;
   width: 100%;
+  height: 50px;
   background-color: darkslategray;
 }
 
@@ -31,6 +39,7 @@ a {
 
 #projects-navItem {margin-right: 10px;}
 
+/*welcome section*/
 #welcome-section {
   display: flex;
   flex-direction: column;
@@ -41,49 +50,68 @@ a {
   background-color: steelblue;
 }
 
-#projects {
+/*projects section*/
+#projects {  
   height: 100vh;
+  padding: 1px; /*makes section sit flush*/
   background-color: orangered;
 }
 
-.project-tile li {list-style: none;}
+#project-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
 
 .project-tile a {
-  text-decoration: none;
-  color: black;
+    background-color: gray;
+    border:solid;
+    border-style: none;
+    text-decoration: none;
+    color: black;
 }
 
-#project-1 {
-  border: solid;
-  border-style: none;
-  background-color: lightgray;
-  padding: 10px;
+.project-tile {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    justify-content: center;
 }
 
-#project-2 {
-  border: solid;
-  border-style: none;
-  background-color: lightgray;
-  padding: 10px;
-  margin-top: 10px;
+#tribute-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
 }
 
-#project-3 {
-  border: solid;
-  border-style: none;
-  background-color: lightgray;
-  padding: 10px;
-  margin-top: 10px;
+#survey-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
 }
 
-#project-4 {
-  border: solid;
-  border-style: none;
-  background-color: lightgray;
-  padding: 10px;
-  margin-top: 10px;
+#landing-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
 }
 
+#doc-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+}
+
+/*contact section*/
 #contact {
   height: 100vh;
   width: 100%;
@@ -104,5 +132,42 @@ a {
 
 #email-contactItem {margin-right: 60px;}
 
+/*footer section*/
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: darkslategray;
+}
 
-@media (max-width: 770px) {}
+/*media query - can I add a height requirement here too?*/
+@media (max-width: 770px) {
+  .project-tile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }  
+  
+  #tribute-page {
+    height: 80px;
+    width: 200px;
+  }
+  
+  #survey-form {
+    height: 80px;
+    width: 200px;
+  }
+  
+  #landing-page {
+    height: 80px;
+    width: 200px;
+  }
+  
+  #doc-page {
+    text-align: center;
+    height: 80px;
+    width: 200px;
+  }
+}
