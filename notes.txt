@@ -5,6 +5,8 @@ LINKS
 4.GitHub project plan: https://github.com/users/sherms77/projects/5
 
 NOTES: DESCENDING ORDER
+220721: Finished step 11: Submitted project - passed.
+220721: Centered nav elements in media query. When screen size is less than 770px navbar is centered.
 220721: Finished step 10. 
     - Styled page as much as much as I could. 
     - Looks presentable in mobile. 

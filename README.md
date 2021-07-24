@@ -17,4 +17,4 @@ Link to project: https://codepen.io/sherman-bernard/full/dyWRvLJ
 
 # Timeline
 - Started: 19 July 2021
-- Finished: TBC
+- Finished: 23 July 2021

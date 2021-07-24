@@ -142,8 +142,12 @@ footer {
   background-color: darkslategray;
 }
 
-/*media query - can I add a height requirement here too?*/
+/*media query*/
 @media (max-width: 770px) {
+  #navbar {
+    justify-content: center; 
+  }
+  
   .project-tile {
         display: flex;
         flex-direction: column;
